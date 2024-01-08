@@ -1,0 +1,140 @@
+* {
+
+    margin: 0;
+    padding: 0;
+
+}
+
+/* header section style */
+
+.background {
+    background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+    background-image: url('resources/Banner\ Image.png');
+    width: 1200px;
+    height: 500px;
+
+    border-radius: 16px;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    margin-top: 30px;
+    
+
+
+
+
+}
+
+.header-h4 {
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+}
+
+.header-h1 {
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 95px;
+
+
+}
+
+/* main section style */
+
+.main-h1 {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 50px;
+}
+
+.main-h6 {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-top: 40px;
+}
+
+.main-h4 {
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.image-div1{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.newyear {
+    width: 802.9px;
+    height: 500px;
+    flex-shrink: 0;
+
+}
+
+
+
+.image-div2{
+    background: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+    background-image: url('resources/Vectorrr.png');
+    width: 1200px;
+    height: 500px;
+
+    
+    border-radius: 16px;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    margin-top: 80px;
+
+}
+
+.image-div3{
+    width: 1200px;
+    height: 500px;
+
+    
+    border-radius: 16px;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: auto; 
+}
+
+
+
+
+
