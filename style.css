@@ -426,6 +426,7 @@
     border: none;
     text-align: left;
     padding-left: 20px;
+    outline: none;
 }
 
 .sub {
@@ -438,6 +439,7 @@
     font-size: 15px;
     font-weight: 600;
     color: #FFF;
+    outline: none;
 
 
 }
